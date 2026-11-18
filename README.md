@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Soyeon (Stella) Kang! 👋
 
-<!--
-**soyeon0308/soyeon0308** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Statistics Student @ University of Wisconsin–Madison**
 
-Here are some ideas to get you started:
+Interested in **Data Science** and **Biostatistics**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- 🎓 B.S. in Statistics | Expected May 2028
+- 📊 Interested in healthcare data and statistical modeling
+- 💻 Python, R, SQL
+- 🔬 Exploring research and collaborative projects
+
+## Featured Projects
+
+### [Bat Ears](https://github.com/ys06146/Bat_ears)
+Collaborative project involving experimental data analysis.
+
+## Connect with Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/soyeon-kang-23b1293a0/)
